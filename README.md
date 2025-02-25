@@ -1,3 +1,4 @@
+- https://github.com/skittree/DrummerScore/blob/master/notebooks/main.ipynb
 ```bash
 yay -S drumgizmo
 
